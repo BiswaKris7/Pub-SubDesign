@@ -32,7 +32,9 @@ Ensure the Lable.csv is in the same directory.
 Run the srcipt in the terminal. 
 
 Producer
+
 python producer.py
 
 For Consumer
+
 python consumer.py
