@@ -29,11 +29,13 @@ Download your service account key (service-account.json) and place it in the sam
 Ensure the Lable.csv is in the same directory. 
 
 
+
 Run the srcipt in the terminal. 
 
 Producer
 
 python producer.py
+
 
 For Consumer
 
